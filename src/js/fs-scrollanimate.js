@@ -1,3 +1,14 @@
+/*
+ * FS-ScrollAnimate
+ * Copyright 2019
+ * Author: Faisal Rashid
+ * All Rights Reserved.
+ * Use, reproduction, distribution, and modification of this code is subject to the terms and
+ * conditions of the MIT license, available at http://www.opensource.org/licenses/mit-license.php
+ *
+ * Project: https://github.com/FaisalST32/fs-scrollanimate
+ */
+
 var FsScrollAnimate = function() {
     let windowHeight;
     let _this = this;
