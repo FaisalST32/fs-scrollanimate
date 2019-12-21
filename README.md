@@ -4,8 +4,8 @@ A simple JavaScript library to animate your HTML elements when they are scrolled
 
 ### CDN Links:
 
-[https://cdn.jsdelivr.net/gh/FaisalST32/fs-lightbox@latest/src/js/fs-scrollanimate.min.js](https://cdn.jsdelivr.net/gh/FaisalST32/fs-scrollanimate@latest/src/js/fs-scrollanimate.min.js)  
-[https://cdn.jsdelivr.net/gh/FaisalST32/fs-lightbox@latest/src/css/fs-scrollanimate.min.css](https://cdn.jsdelivr.net/gh/FaisalST32/fs-scrollanimate@latest/src/css/fs-scrollanimate.min.css)  
+[https://cdn.jsdelivr.net/gh/FaisalST32/fs-scrollanimate@latest/src/js/fs-scrollanimate.min.js](https://cdn.jsdelivr.net/gh/FaisalST32/fs-scrollanimate@latest/src/js/fs-scrollanimate.min.js)  
+[https://cdn.jsdelivr.net/gh/FaisalST32/fs-scrollanimate@latest/src/css/fs-scrollanimate.min.css](https://cdn.jsdelivr.net/gh/FaisalST32/fs-scrollanimate@latest/src/css/fs-scrollanimate.min.css)  
   
 ### NPM
 
