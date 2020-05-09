@@ -2,6 +2,8 @@
   
 A simple JavaScript library to animate your HTML elements when they are scrolled into view. This library doesn't have any dependencies and can be used with any webpage.
 
+You can view a demo [here](https://www.cssscript.com/demo/fade-slide-animation-scroll-fs/)
+
 ### CDN Links:
 
 [https://cdn.jsdelivr.net/gh/FaisalST32/fs-scrollanimate@latest/src/js/fs-scrollanimate.min.js](https://cdn.jsdelivr.net/gh/FaisalST32/fs-scrollanimate@latest/src/js/fs-scrollanimate.min.js)  
